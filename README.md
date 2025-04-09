@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔥 ScratchGPT – Build Your Own GPT from the Ground Up
 
 ScratchGPT is a fully from-scratch implementation of a GPT-style transformer in PyTorch. 
@@ -21,3 +22,7 @@ To learn the internals of GPT models and transformers, without using high-level 
 ---
 
 Built with 💻 by Anthony Lewallen.
+=======
+# ScratchGPT
+Building a GPT-style transformer model from scratch using PyTorch -- includes tokenizers, embeddings, attention, and step-by-step- Jupyter Notebook code.
+>>>>>>> f5eaef5f7885bc327dd4fb9ebd6aba91839da30e
