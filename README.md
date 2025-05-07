@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔥 ScratchGPT – Build Your Own GPT from the Ground Up
 
 ScratchGPT is a fully from-scratch implementation of a GPT-style transformer in PyTorch. 
